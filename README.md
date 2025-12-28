@@ -1,5 +1,10 @@
-# 💫 About Me:
-1. I’m currently working on<br>Building and refining frontend web applications using HTML, CSS, and JavaScript, with a strong focus on responsive design and real-world UI patterns inspired by production platforms like Amazon and matrimony systems.<br><br>2. I’m looking to collaborate on<br>Frontend-heavy web projects, especially UI/UX-driven websites, JavaScript-based applications, Shopify storefronts, or beginner-friendly open-source projects where clean design and usability matter.<br><br>3. I’m looking for help with<br>Improving advanced JavaScript concepts, real-world API integrations, and best practices for scaling frontend projects into production-ready applications.<br><br>4. I’m currently learning<br>Advanced frontend development, UI/UX design principles, Shopify development, and strengthening my computer science foundation through my M.Sc. in Computer Science.<br><br>5. Ask me about<br>Frontend development, responsive web design, HTML/CSS layouts, JavaScript logic, building projects from scratch, or explaining coding concepts in a simple way.<br><br>6. Fun fact<br>I’ve built full websites from scratch using just HTML, CSS, and JavaScript and still enjoy polishing pixel-level details more than using heavy frameworks ✨
+# 💫 About Me:🔭 I’m currently working on
+Building and refining frontend web applications using HTML, CSS, and JavaScript, with a strong focus on responsive design and real-world UI patterns inspired by production platforms like Amazon and matrimony systems.<br><br>👯 I’m looking to collaborate on
+Frontend-heavy web projects, especially UI/UX-driven websites, JavaScript-based applications, Shopify storefronts, or beginner-friendly open-source projects where clean design and usability matter.<br><br>🤝 I’m looking for help with
+Improving advanced JavaScript concepts, real-world API integrations, and best practices for scaling frontend projects into production-ready applications.<br><br>🌱 I’m currently learning
+Advanced frontend development, UI/UX design principles, Shopify development, and strengthening my computer science foundation through my M.Sc. in Computer Science.<br><br>💬 Ask me about
+Frontend development, responsive web design, HTML/CSS layouts, JavaScript logic, building projects from scratch, or explaining coding concepts in a simple and beginner-friendly way.<br><br><br>⚡ Fun fact
+I enjoy building complete websites from scratch using vanilla HTML, CSS, and JavaScript and obsess a little over pixel-perfect UI details.
 
 
 ## 🌐 Socials:
