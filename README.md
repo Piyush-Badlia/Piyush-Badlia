@@ -1,4 +1,5 @@
-# 💫 About Me:🔭 I’m currently working on
+# 💫 About Me:
+🔭 I’m currently working on
 Building and refining frontend web applications using HTML, CSS, and JavaScript, with a strong focus on responsive design and real-world UI patterns inspired by production platforms like Amazon and matrimony systems.<br><br>👯 I’m looking to collaborate on
 Frontend-heavy web projects, especially UI/UX-driven websites, JavaScript-based applications, Shopify storefronts, or beginner-friendly open-source projects where clean design and usability matter.<br><br>🤝 I’m looking for help with
 Improving advanced JavaScript concepts, real-world API integrations, and best practices for scaling frontend projects into production-ready applications.<br><br>🌱 I’m currently learning
